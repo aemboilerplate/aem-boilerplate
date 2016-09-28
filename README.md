@@ -56,4 +56,4 @@ The project comes with the auto-public repository configured. To setup the repos
     http://helpx.adobe.com/experience-manager/kb/SetUpTheAdobeMavenRepository.html
 
 ## Contact
-For questions or comments please write to suren@sandconsulting.com
+
